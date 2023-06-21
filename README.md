@@ -32,8 +32,7 @@ later I upgraded the Comparer tool to generate sexy [HTML tree diffs with collap
 
 ## Building the project
 
-- The app is written in C# 6.0 
-- I used Visual Studio 2022 Preview to (for) reverse-engeneering this cool tool.  
+- I used Visual Studio 2022 Preview (for) this cool reverse-engeneering tool.  
 - SDK 19041 used; Min. Win. os build = 10240 (hello, "Project Astoria") 
 
 ## Creating API dumps
