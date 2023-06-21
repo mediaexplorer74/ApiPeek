@@ -1,8 +1,7 @@
 # ApiPeek v1.0.0-alpha
 
 ## About
-About
-Semi-mobile (UWP + Console app set) system for creating and comparing API dumps, from different versions of W10(M)...
+The semi-mobile (UWP + Console app set) system for creating and comparing API dumps, from different versions of W10(M)...
 
 ## Screenshots
 ![](Images/shot1.png)
